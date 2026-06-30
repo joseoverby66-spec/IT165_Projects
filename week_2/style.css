@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Basketball - Semantic HTML</title>
+</head>
+<body>
+<header>
+<h1>Basketball</h1>
+</header>
+<nav>
+<a href="#">Home</a> |
+<a href="#">Players</a> |
+<a href="#">Teams</a>
+</nav>
+<main>
+<section>
+<h2>What is Basketball?</h2>
+<p>Basketball is a popular sport played by two teams.</p>
+</section>
+<section>
+<h2>Why I Like Basketball</h2>
+<p>I enjoy basketball because it is exciting and competitive.</p>
+</section>
+<article>
+<h2>Famous Basketball Players</h2>
+<p>Many athletes have helped grow the game worldwide.</p>
+<ul>
+<li>Michael Jordan</li>
+<li>LeBron James</li>
+<li>Kobe Bryant</li>
+<li>Stephen Curry</li>
+<li>Shaquille O'Neal</li>
+</ul>
+</article>
+<figure>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Basketball.png"
+alt="Basketball"
+width="300">
+<figcaption>Basketball Image</figcaption>
+</figure>
+</main>
+<footer>
+<p>Created for IT165 Week 2 Assignment</p>
+</footer>
+</body>
+</html>
